@@ -5,4 +5,4 @@
 * CSS 
 * JavaScript
 ---
-![gallery blank](https://user-images.githubusercontent.com/41051826/50680037-1d2e4100-1041-11e9-8ff3-46a3087e26d0.jpeg)
+![gallery blank](https://user-images.githubusercontent.com/41051826/50680990-bdd23000-1044-11e9-82bf-a858eb08abbe.jpeg)
